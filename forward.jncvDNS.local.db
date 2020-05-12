@@ -1,5 +1,5 @@
 $TTL 604800
-@ IN SOA ns1.hostname.local. root.hostname.local. (
+@ IN SOA ns1.jncvDNS.local. root.jncvDNS.local. (
 3 ; Serial
 604800 ; Refresh
 86400 ; Retry
